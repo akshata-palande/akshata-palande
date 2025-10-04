@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @akshata-palande
 - 👀 I’m interested in application development (Mobile)
-- 🌱 I’m currently learning flutter, Node
+- 🌱 I’m currently learning flutter, Node ,Java spring 
 - 💞️ I’m looking to collaborate on Android + React Native
+-    I am learning on java spring boot for bankend development
 - 📫 How to reach me akshata.palande@gmail.com
 
 <!---
